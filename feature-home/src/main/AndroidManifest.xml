@@ -7,7 +7,7 @@
             android:name="com.ridhoafnidev.edtc.feature.home.HomeActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/BaseTheme" />
+            android:theme="@style/BaseTheme.Home" />
     </application>
 
 </manifest>
